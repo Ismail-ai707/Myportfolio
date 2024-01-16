@@ -1,0 +1,12 @@
+---
+title: Ismail Rhazi
+#logo: /Mypic_cropped.png
+description: Data Science and AI Enthusiast
+theme: jekyll-theme-minimal
+---
+
+<div style="text-align: center; margin: 0 auto; max-width: 600px;">
+  <img src="{{ page.logo }}" alt="Logo" style="width: 100px; height: 100px; border-radius: 50%;">
+  <h1>{{ page.title }}</h1>
+  <p>{{ page.description }}</p>
+</div>
