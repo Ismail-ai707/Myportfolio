@@ -29,7 +29,7 @@ Maths & Physics, Computer Science, IoT
   - K-Means Clustering
   - Hierarchical Clustering
 
-Access this project on my Github account [here](https://github.com/Ismail-ai707/Customer_Segmentation)
+Access this project on my Github account [here](https://github.com/Ismail-ai707/CustomerSegmentation)
 
 #### Customer Churn Analysis with SQL and Tableau
 This project was executed on 365DataScience platform data. In this project i used MySQL (and pgAdmin) to load, preprocess data, and apply SQL Queries to get insights from the data.
@@ -41,7 +41,7 @@ I also practiced Cohort Analysis Table, Maps and Order Frequency Table.
 * Data Exploratory Data Analysis
 * Visualization
 
-Acess this project on my Github account [here](https://github.com/Ismail-ai707/Real-Estate-Market-Analysis)
+Acess this project on my Github account [here](https://github.com/Ismail-ai707/Real_Estate_Market_Analysis)
 
 ### Work Experience
 
