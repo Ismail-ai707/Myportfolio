@@ -1,4 +1,4 @@
-# Futur Data Scientist
+# Data Scientist
 Dive into my journey, and let's embark on a new adventure together! 🚀
 "The doers are the major thinkers" - Steve Jobs.
 
